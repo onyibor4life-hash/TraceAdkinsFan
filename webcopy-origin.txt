@@ -1,0 +1,40 @@
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\websiteui.github.io\3.4.17
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter&display=swap
+File Name: C:\Downloaded Web Sites\websiteui.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\websiteui.github.io\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Downloaded Web Sites\websiteui.github.io\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\websiteui.github.io\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\websiteui.github.io\aos@2.3.1\dist\aos.js
+Content Type: text/javascript
+
+Uri: https://websiteui.github.io/morganwallenfancircle/
+File Name: C:\Downloaded Web Sites\websiteui.github.io\morganwallenfancircle\index.htm
+Content Type: text/html
+
+Uri: https://websiteui.github.io/morganwallenfancircle/contact.html
+File Name: C:\Downloaded Web Sites\websiteui.github.io\morganwallenfancircle\contact.html.htm
+Content Type: text/html
+
+Uri: https://websiteui.github.io/morganwallenfancircle/Morganwallen.mp4/Morganwallen.mp4(360p).mp4
+File Name: C:\Downloaded Web Sites\websiteui.github.io\morganwallenfancircle\Morganwallen.mp4\Morganwallen.mp4(360p).mp4
+Content Type: video/mp4
+
+Uri: https://websiteui.github.io/morganwallenfancircle/subscribe.html
+File Name: C:\Downloaded Web Sites\websiteui.github.io\morganwallenfancircle\subscribe.html.htm
+Content Type: text/html
+
